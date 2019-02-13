@@ -20,7 +20,7 @@ function gist_info()
         "description" => "Embed gist in posts ",
         "website" => "https://ilvermorny.xyz",
         "author" => "Juliens",
-        "authorsite" => "ttps://ilvermorny.xyz",
+        "authorsite" => "https://ilvermorny.xyz",
         "version" => "1.0",
         "guid" => "",
         "compatibility" => "18*"
